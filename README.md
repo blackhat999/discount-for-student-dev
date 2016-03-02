@@ -5,7 +5,7 @@ This list is greatly inspired by the [free-for-dev list](https://github.com/ripi
 You can help by sending Pull Requests to add more services. Please great the [contribution guidelines](contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
-If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://twitter.com/acho_arnold)
+If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://twitter.com/acho_arnold).
 
 Table of Contents
 =================
@@ -113,10 +113,14 @@ Table of Contents
 
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) - Additional space & features for free accounts or 20% discount on paid accounts.
   * [Tableau Desktop](https://www.tableau.com/academic/students) - One Year Professional License for Students.
+  * [SAS University Edition]() and [SAS OnDemand Academic]() - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on this and hosts SAS Studio for use with a browser on the host computer. SAS OnDemand hosts SAS Studio for use in the cloud without installation. Both are free for students at any level.
 
 ## 3D Animation and Modeling Software
 
-  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
+  * [Autodesk Entertainment Creation Suite Ultimate](http://www.autodesk.com/education/free-software/entertainment-creation-suite-ultimate) - 3-Year License for students from Autodesk. Includes all Autodesk products, including Maya, 3DS MAX, Softimage, Motion Builder and Mudbox.
+
+##Operating Systems
+* [Microsoft Windows Embedded and Server on DreamSpark]() - Microsoft DreamSpark offers downloads of Windows 7 Embedded Compact and Standard, Windows Embedded Compact 2013, Windows 8.1 Embedded Industry Pro, Windows Server 2012 and 2012 R2, and Windows Server 2008 R2 free to verified students. The DreamSpark EULA says that these operating systems may only be used on PCs already licensed to run a version of Windows.
 
 ## Other Packs
 
